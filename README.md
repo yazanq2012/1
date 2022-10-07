@@ -17,7 +17,7 @@
 <body>
     <style>
         body {
-            background-color: lightgrey;
+            background-color: red;
         }
     </style>
 
@@ -35,10 +35,7 @@
     <a href="https://www.animal.c1.biz">
         <button>animal</button>
     </a>
-    <style>        body {
-            background: linear-gradient(blue, red);
-        }
-    </style>
+   
   <style>      h1 {
     font-size:50  }
   </style>
