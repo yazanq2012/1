@@ -15,11 +15,7 @@
 
 
 <body>
-    <style>
-        body {
-            background-color: red;
-        }
-    </style>
+   <style>body{background-color:red}</style>
 
     <style>
         button {
